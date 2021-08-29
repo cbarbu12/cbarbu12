@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cbarbu12
+- 👋 Hi, I’m Cristian Barbu and I'm working as a QA Automation Engineer.
 - 👀 I’m interested in Software Developemnt, Automation, Scripting, Networking.
 - 🌱 I’m currently learning a lot of technologies related to my interests.
 
